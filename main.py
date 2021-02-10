@@ -12,4 +12,4 @@ for i in range(len(cogs)):
     cogs[i].setup(client)
 
 
-client.run("ODA3MTQ3OTEwNzY0MDM2MTI3.YBzxEg.f14RU19hAwM8IRGNIT0CxKWEJ7c")
+client.run("")
